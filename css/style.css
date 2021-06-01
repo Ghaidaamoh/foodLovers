@@ -1,0 +1,53 @@
+header {
+    background-color: rgb(235, 157, 41);
+    height: 50px;
+}
+h1{
+
+   text-align: center; 
+   color: red;
+   font-weight: bold;
+   margin-top: 25px;
+
+}
+body{
+
+    background-image:url("../img/background.jpg");
+    width: 100%;
+    
+}
+ 
+
+ #myTable{
+     border: 2px solid red;
+     background-color: rgb(235, 157, 41);
+
+ } 
+ #myForm{
+     margin-top: 50px;
+     margin-left: 30px;
+   display: inline-block;
+    background-color: rgb(235, 157, 41);
+    height: 150px;
+    padding-left: 25px;
+
+ }
+ul{
+
+    margin-top: 10px;
+    margin-left: 10px; 
+    width: 50px;
+}
+
+footer{
+    margin-top: 500px;
+text-align: center;
+background-color: rgb(235, 157, 41);
+display: block;
+
+}
+#button{
+    margin-top: 25px;
+    background-color: red;
+    width: 50px;
+}
